@@ -1,0 +1,80 @@
+body, html {
+    height: 100%;
+    margin: 0;
+
+  }
+.prvi{
+    background-color: darkcyan;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+.navbar{
+    margin-bottom:0 !important;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:rgb(109, 107, 107);
+    font-size: large;
+    font-weight: bold;
+}
+  
+
+.footer-copyright{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+   
+}
+h2{
+      color: white;
+  }
+
+.pagination{
+    position: relative;
+    float:right;
+    font-weight: bold;
+}
+.page-footer{
+    background-color: white;
+}
+
+.about{
+    position: relative;
+    margin-top:5%;
+    width: 100%;
+    text-align: left;
+    color:rgb(0, 0, 0);
+    background-color: bisque;
+    opacity: 0.8;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 23px;
+    padding: 15px;    
+    text-align: center; 
+}
+.kont{
+    background-color: rgba(3, 11, 12, 0.377);
+    opacity: 0.9;
+    padding: 7%;
+}
+h4{
+    color: white;
+    padding: 10px;
+    font-weight:bold;
+}
+
